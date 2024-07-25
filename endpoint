@@ -1,9 +1,0 @@
-{
-    "BootstrapperVersion": "1.0",
-    "SupportedClient": "version-2e10d35f26294ab6",
-    "SoftwareVersion": "2.51",
-    "BootstrapperUrl": "https://bitbucket.org/realsolara/solara/downloads/Bootstrapper.exe",
-    "SoftwareUrl":"https://bitbucket.org/realsolara/solara/downloads/Solara.Dir.zip",
-    "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
-    "ClientHash":"e854ce350a3692bc03bfb2fbc2a491fdf61c5f0d37c9fb4dd1acf4c2ec53844b"
-}
